@@ -2,3 +2,4 @@ npm-debug.log
 nodu_modules
 .DS_store
 build
+node_modules

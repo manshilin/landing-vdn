@@ -1,0 +1,25 @@
+{
+  "name": "landing-vdn",
+  "version": "1.0.0",
+  "description": "> node -v\r ## если видите v16.17.1 или выше все ок\r > npm -v\r ## Установите gulp \r ## Инструкция для старта проекта\r *Склонировать депозиторий\r > git clone https://github.com/manshilin/landing-vdn.git\r *Запустить npm install в терминале",
+  "main": "This is landing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manshilin/landing-vdn.git"
+  },
+  "author": "Sergii Manshylin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manshilin/landing-vdn/issues"
+  },
+  "homepage": "https://github.com/manshilin/landing-vdn#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0"
+  }
+}
